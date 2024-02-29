@@ -53,7 +53,7 @@ Before running the application, you need to obtain an API key from OpenWeatherMa
 
 ## Screenshots
 
-![Screenshot 1](screenshots/whether-forcast.png)
+![Screenshot 1](whether-forcast.png)
 
 ## Credits
 
